@@ -1,4 +1,13 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wntpdnjs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={sewonii})](https://solved.ac/{handle})
+
+
 
 <!--
 **wntpdnjs/wntpdnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
