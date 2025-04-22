@@ -5,19 +5,25 @@
 <br/>
 
 
-### 📊 백준 티어
+## 📊 백준 티어
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sewonii" width="300px"/>
 
+<br/>
 
-
-### 🔥 Most Used Languages
+## 🔥 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wntpdnjs&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8" width="300px"/>
 
+<br/>
 
+## 📈 GitHub Stats 📈
 
-### 🛠 SKILL 🛠
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wntpdnjs&show_icons=true&theme=default)
+
+<br/>
+
+## 🛠 SKILL 🛠
 
 <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
@@ -30,7 +36,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  
 
-
+<br/>
 
 </div>
 
