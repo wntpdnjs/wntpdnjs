@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wntpdnjs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wntpdnjs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
