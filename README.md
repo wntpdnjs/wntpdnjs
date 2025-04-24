@@ -5,8 +5,22 @@
 <br/>
 
 
-## 📊 백준 티어
+## 🛠 SKILL 🛠
 
+<img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  
+
+
+<br/>
+<br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sewonii" width="300px"/>
 
 <br/>
@@ -21,20 +35,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wntpdnjs&show_icons=true&theme=default)
 
-<br/>
-
-## 🛠 SKILL 🛠
-
-<img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  
 
 <br/>
 
